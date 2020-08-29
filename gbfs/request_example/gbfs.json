@@ -1,0 +1,34 @@
+{
+    "last_updated": 1597530871,
+    "data": {
+        "en": {
+            "feeds": [
+                {
+                    "name": "system_information",
+                    "url": "https://mds.bird.co/gbfs/chicago/system_information.json"
+                },
+                {
+                    "name": "station_information",
+                    "url": "https://mds.bird.co/gbfs/chicago/station_information.json"
+                },
+                {
+                    "name": "free_bike_status",
+                    "url": "https://mds.bird.co/gbfs/chicago/free_bike_status.json"
+                },
+                {
+                    "name": "geofencing_zone_information",
+                    "url": "https://mds.bird.co/gbfs/chicago/geofencing_zone_information.json"
+                },
+                {
+                    "name": "geofencing_zone_status",
+                    "url": "https://mds.bird.co/gbfs/chicago/geofencing_zone_status.json"
+                },
+                {
+                    "name": "system_regions",
+                    "url": "https://mds.bird.co/gbfs/chicago/system_regions.json"
+                }
+            ]
+        }
+    },
+    "ttl": 60
+}
