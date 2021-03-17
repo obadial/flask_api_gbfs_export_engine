@@ -1,5 +1,7 @@
 # GBFS export engine
-New GBFS export service, work with EN data. We can accept files for scooters and bikes
+New GBFS export service, work with EN data. We can accept files for scooters and bikes.
+
+It's Flask API.
 
 ## Local requirements
 - docker & docker-compose 
